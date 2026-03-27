@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Chris%20Estrada&height=200&fontSize=60&fontColor=ffffff)
 # Hi 👋, I'm Chris Estrada
 
 ### I am a Full Stack Developer
